@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Upasana</string>
+    <string name="app_name">Upasana: উপাসনা</string>
+    <string name="splashtext">
+        কলুষানল-দগ্ধানাং শান্তয়ে-অমৃত বারিভিঃ ।
+        \nপ্রকাশ্যতে সত্যধর্ম মুক্তয়ে মুক্তি-কাঙ্ক্ষিণাম ।।
+    </string>
+    <string name="index">ব্যাংক পরিচিতি</string>
 </resources>

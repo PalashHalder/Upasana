@@ -1,18 +1,126 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context=".MainActivity">
 
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginTop="10dp"
+        android:textSize="20sp"
+        android:gravity="center_horizontal|center_vertical"
         android:text="স্বাগতম হে উপাসক!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        android:textStyle="bold"
+         />
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:orientation="vertical">
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/btn_bg"
+                android:textSize="18sp"
+                android:text="উপাসনা সূচী"
+
+                />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/btn_bg"
+                android:textSize="18sp"
+                android:text="শ্রী গুরু আহবান"
+                />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/btn_bg"
+                android:textSize="18sp"
+                android:text="মনের প্রতি ও জনের প্রতি"
+                />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/btn_bg"
+                android:textSize="18sp"
+                android:text="গুণ কীর্তন"
+                />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/btn_bg"
+                android:textSize="18sp"
+                android:text="প্রার্থনা- কথায় ও গানে"
+                />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/btn_bg"
+                android:textSize="18sp"
+                android:text="ধন্যবাদ"
+                />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/btn_bg"
+                android:textSize="18sp"
+                android:text="প্রণাম"
+                />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/btn_bg"
+                android:textSize="18sp"
+                android:text="গ্রন্থ: সত্যধর্ম"
+                />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/btn_bg"
+                android:textSize="18sp"
+                android:text="গ্রন্থ: উপাসনা"
+                />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/btn_bg"
+                android:textSize="18sp"
+                android:text="গ্রন্থ: সাধনা"
+                />
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+</LinearLayout>

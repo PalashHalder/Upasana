@@ -4,30 +4,30 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".SplashActivity">
+    tools:context=".SplashActivity"
+    android:orientation="vertical">
 
     <TextView
         android:id="@+id/om"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="200dp"
+        android:layout_marginTop="130dp"
         android:text="ওঁং"
         android:textAlignment="center"
-        android:textColor="@color/purple_500"
+        android:textColor="#673AB7"
         android:textSize="80sp"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        />
 
     <TextView
         android:id="@+id/slogan"
-
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="200dp"
-        android:text="কলুষাণল দগ্ধানাং শান্তয়েমৃত বারিভি
-        প্রকাশ্যতে সত্যধম্র্ম মুক্তায়ে মুক্তি কাঙ্খিনাম"
+        android:layout_marginTop="25dp"
+        android:text="@string/splashtext"
         android:textAlignment="center"
-        android:textColor="@color/purple_500"
-        android:textSize="80sp"
-        android:textStyle="bold" />
+        android:textColor="#223ABF"
+        android:textSize="16sp"
+        android:textStyle="normal" />
 
 </LinearLayout>
