@@ -14,7 +14,7 @@
         android:layout_marginTop="130dp"
         android:text="ওঁং"
         android:textAlignment="center"
-        android:textColor="#673AB7"
+        android:textColor="#5C21C5"
         android:textSize="80sp"
         android:textStyle="bold"
         />
@@ -26,7 +26,7 @@
         android:layout_marginTop="25dp"
         android:text="@string/splashtext"
         android:textAlignment="center"
-        android:textColor="#223ABF"
+        android:textColor="#DFF44336"
         android:textSize="16sp"
         android:textStyle="normal" />
 

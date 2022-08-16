@@ -1,8 +1,29 @@
 <resources>
-    <string name="app_name">Upasana: উপাসনা</string>
+    <string name="app_name">Upasana | উপাসনা</string>
     <string name="splashtext">
         কলুষানল-দগ্ধানাং শান্তয়ে-অমৃত বারিভিঃ ।
         \nপ্রকাশ্যতে সত্যধর্ম মুক্তয়ে মুক্তি-কাঙ্ক্ষিণাম ।।
     </string>
-    <string name="index">ব্যাংক পরিচিতি</string>
+    <string name="indexPage">
+        ওঁং\n
+        গুরুকৃপা হি কেবলম\n\n\n
+        উপাসনা পদ্ধতি: বিভু উপাসনা\n
+    </string>
+    <string name="indexDetails">
+        ১। ধ্বনি।\n
+        ২। বীজজপ: অন্তত ২০ বার।\n
+        ৩। শ্রী গুরু আহবান।\n
+        ৪। সত্যধর্মের শ্রেষ্ঠতা সূচক সঙ্গীত।\n
+        ৫। মনের ও জনের প্রতি সঙ্গীত।\n
+        ৬। বীজজপ: অন্তত ৫ বার।\n
+        ৭। গুণ-কীর্তন।\n
+        ৮। প্রার্থনা: কথায় ও গানে।\n
+        ৯। শাস্ত্র পাঠ।\n
+        ১০। বীজজপ: অন্তত ২০ বার।\n
+        ১১। ধন্যবাদ।\n
+        ১২। বীজজপ: অন্তত ২০ বার।\n
+        ১৩। প্রণাম।\n
+    </string>
+    <string name="invokeSong">শ্রী গুরু আহবান</string>
+
 </resources>

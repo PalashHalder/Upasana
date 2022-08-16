@@ -28,6 +28,7 @@
             android:orientation="vertical">
 
             <Button
+                android:id="@+id/btnIndex"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
                 android:layout_margin="5dp"
@@ -38,6 +39,7 @@
                 />
 
             <Button
+                android:id="@+id/btnGuruInvoke"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
                 android:layout_margin="5dp"
@@ -47,6 +49,7 @@
                 />
 
             <Button
+                android:id="@+id/btnToMind"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
                 android:layout_margin="5dp"
@@ -56,6 +59,7 @@
                 />
 
             <Button
+                android:id="@+id/btnHymn"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
                 android:layout_margin="5dp"
@@ -65,6 +69,7 @@
                 />
 
             <Button
+                android:id="@+id/btnPrayer"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
                 android:layout_margin="5dp"
@@ -74,6 +79,7 @@
                 />
 
             <Button
+                android:id="@+id/btnThanks"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
                 android:layout_margin="5dp"
@@ -83,6 +89,7 @@
                 />
 
             <Button
+                android:id="@+id/btnBow"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
                 android:layout_margin="5dp"
@@ -92,6 +99,7 @@
                 />
 
             <Button
+                android:id="@+id/btnSatyaDharma"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
                 android:layout_margin="5dp"
@@ -101,6 +109,7 @@
                 />
 
             <Button
+                android:id="@+id/btnWorship"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
                 android:layout_margin="5dp"
@@ -110,12 +119,33 @@
                 />
 
             <Button
+                android:id="@+id/btnSadhana"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
                 android:layout_margin="5dp"
                 android:background="@drawable/btn_bg"
                 android:textSize="18sp"
                 android:text="গ্রন্থ: সাধনা"
+                />
+
+            <Button
+                android:id="@+id/btnGuruLife"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/btn_bg"
+                android:textSize="18sp"
+                android:text="গুরুদেবের জীবনী"
+                />
+
+            <Button
+                android:id="@+id/btnMessage"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/btn_bg"
+                android:textSize="18sp"
+                android:text="গুরদেবের বাণী"
                 />
 
         </LinearLayout>

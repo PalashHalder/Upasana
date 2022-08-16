@@ -4,10 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/ICT-90/AndroidStudioProjects/Upasana/app/src/main/res/drawable/btn_bg.xml" value="0.1275" />
-        <entry key="..\:/Users/ICT-90/AndroidStudioProjects/Upasana/app/src/main/res/layout/activity_index.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/ICT-90/AndroidStudioProjects/Upasana/app/src/main/res/layout/activity_guru_invoke.xml" value="0.1361111111111111" />
+        <entry key="..\:/Users/ICT-90/AndroidStudioProjects/Upasana/app/src/main/res/layout/activity_index.xml" value="0.1" />
         <entry key="..\:/Users/ICT-90/AndroidStudioProjects/Upasana/app/src/main/res/layout/activity_main.xml" value="0.1350210970464135" />
         <entry key="..\:/Users/ICT-90/AndroidStudioProjects/Upasana/app/src/main/res/layout/activity_satyadharma.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/ICT-90/AndroidStudioProjects/Upasana/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Users/ICT-90/AndroidStudioProjects/Upasana/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
       </map>
     </option>
   </component>

@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Upasana">
         <activity
+            android:name=".GuruInvokeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".IndexActivity"
+            android:exported="false" />
+        <activity
             android:name=".SplashActivity"
             android:exported="true">
             <intent-filter>
