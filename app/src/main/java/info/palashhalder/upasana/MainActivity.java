@@ -50,6 +50,22 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        btnToMind.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
 
+                Intent intent = new Intent(MainActivity.this, SecondDayActivity.class);
+                startActivity(intent);
+            }
+        });
+
+        btnHymn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+
+                Intent intent = new Intent(MainActivity.this, ThirdDayActivity.class);
+                startActivity(intent);
+            }
+        });
     }
 }

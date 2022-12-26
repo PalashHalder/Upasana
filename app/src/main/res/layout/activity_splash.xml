@@ -30,4 +30,16 @@
         android:textSize="16sp"
         android:textStyle="normal" />
 
+
+    <TextView
+        android:id="@+id/notice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:text="এটি পরীক্ষামূলক ভার্সন। অ্যাপটি ব্যবহারের জন্য ইন্টারনেট প্রয়োজন রয়েছে।"
+        android:textAlignment="center"
+        android:textColor="#3AA33E"
+        android:textSize="14sp"
+        android:textStyle="normal" />
+
 </LinearLayout>

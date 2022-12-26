@@ -13,7 +13,7 @@
         android:layout_marginTop="10dp"
         android:textSize="20sp"
         android:gravity="center_horizontal|center_vertical"
-        android:text="স্বাগতম হে উপাসক!"
+        android:text="শিশিরোৎসবে আপনাকে স্বাগতম!"
         android:textStyle="bold"
          />
 
@@ -34,7 +34,7 @@
                 android:layout_margin="5dp"
                 android:background="@drawable/btn_bg"
                 android:textSize="18sp"
-                android:text="উপাসনা সূচী"
+                android:text="অধিবেশন সূচি"
 
                 />
 
@@ -45,7 +45,7 @@
                 android:layout_margin="5dp"
                 android:background="@drawable/btn_bg"
                 android:textSize="18sp"
-                android:text="শ্রী গুরু আহবান"
+                android:text="১ম দিবস"
                 />
 
             <Button
@@ -55,7 +55,7 @@
                 android:layout_margin="5dp"
                 android:background="@drawable/btn_bg"
                 android:textSize="18sp"
-                android:text="মনের প্রতি ও জনের প্রতি"
+                android:text="২য় দিবস"
                 />
 
             <Button
@@ -65,7 +65,7 @@
                 android:layout_margin="5dp"
                 android:background="@drawable/btn_bg"
                 android:textSize="18sp"
-                android:text="গুণ কীর্তন"
+                android:text="৩য় দিবস"
                 />
 
             <Button
@@ -75,7 +75,7 @@
                 android:layout_margin="5dp"
                 android:background="@drawable/btn_bg"
                 android:textSize="18sp"
-                android:text="প্রার্থনা- কথায় ও গানে"
+                android:text="গ্রন্থ: সত্যধর্ম"
                 />
 
             <Button
@@ -105,7 +105,7 @@
                 android:layout_margin="5dp"
                 android:background="@drawable/btn_bg"
                 android:textSize="18sp"
-                android:text="গ্রন্থ: সত্যধর্ম"
+                android:text="গ্রন্থ: স্ত্রীশিক্ষা"
                 />
 
             <Button
@@ -145,7 +145,7 @@
                 android:layout_margin="5dp"
                 android:background="@drawable/btn_bg"
                 android:textSize="18sp"
-                android:text="গুরদেবের বাণী"
+                android:text="গুরুদেবের বাণী"
                 />
 
         </LinearLayout>
